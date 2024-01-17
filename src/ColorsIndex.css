@@ -1,0 +1,22 @@
+.colors-list {
+    list-style: none;
+    padding: 0;
+}
+
+.colors-list li {
+    margin-bottom: 10px;
+}
+
+.colors-list li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.add-color-link {
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
